@@ -1,3 +1,3 @@
 # KDD-CUP-2020
 
-This code was done by me and @Autumn945
+This work was done by me and [Autumn945](https://github.com/Autumn945)
